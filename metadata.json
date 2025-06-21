@@ -1,0 +1,5 @@
+{
+  "name": "Wandermore - Travel Blog",
+  "description": "A visually appealing, animated travel blog frontend built with React, TypeScript, and Tailwind CSS, showcasing destinations and stories. Features smooth animations with Framer Motion.",
+  "requestFramePermissions": []
+}
