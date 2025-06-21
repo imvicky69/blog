@@ -1,5 +1,0 @@
-{
-  "name": "AI Travel Blog Generator",
-  "description": "A web application that uses Gemini API to generate travel blog posts with accompanying images based on user-provided topics. Users can view, create, and browse AI-generated travel narratives.",
-  "requestFramePermissions": []
-}
